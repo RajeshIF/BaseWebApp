@@ -1,6 +1,6 @@
 {
-  "name": "Build Your First Webapp",
-  "description": "A barebones Node.js app using Express 4",
+  "name": "Portal for IndieFlix",
+  "description": "A Node.js app for the IndieFlix Customer Portal, built using using Express 4",
   "repository": "",
   "logo": "",
   "keywords": ["node", "express", "static"],
